@@ -1,0 +1,1 @@
+# ngswitch-angular
